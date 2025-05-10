@@ -6,6 +6,7 @@
   九爻是一款专门针对空间计算设备而制作的人机交互输入系统，通过人体手掌捏合与眼动追踪结合完成的空间计算输入系统，具有人体触觉反馈，空间计算的视觉反馈，听觉反馈相结合的高效输入系统，可以为使用者提供丰富的输入自定义按键数量，同时也可以根据不同人群的使用习惯自定义训练定制化的输入方式如，为空间计算与人机交互提供新的高效输入交互系统。
 ##
    NineTrigram is a human-computer interaction input system specifically developed for spatial computing devices. It is a spatial computing input system that combines the pinching gesture of the human palm with eye tracking. It is an efficient input system that integrates human tactile feedback, visual feedback of spatial computing, and auditory feedback. It can offer users a large number of customizable input buttons. Meanwhile, it can also customize and train personalized input methods according to the usage habits of different individuals. For instance, it provides a new and efficient input interaction system for spatial computing and human-computer interaction.
+
   ![九爻图标](https://github.com/user-attachments/assets/1f46393c-7216-47cb-a94d-dca53e99375f)
 ## 核心功能 Core function
   指诀输入：通过人体手掌指节的自然分区，如手指尖段、手指腹段，手指根段、定义键盘按键，大拇指尖与手指捏合的不同部位完成键盘输入，配合眼动追踪双手即可完成键盘鼠标的全部工作。具有空间计算的视觉反馈，听觉反馈，同时结合人体自身的触觉反馈提供沉浸式的输入交互系统。
